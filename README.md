@@ -3,7 +3,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=stephenc0729.stephenc0729) <img src="https://komarev.com/ghpvc/?username=stephenc0729&label=Profile%20views&color=0e75b6&style=flat" alt="stephenc0729" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Stephenc0729&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=stephenc0729&theme=onedark)]
 
 - 🌱 I’m currently learning **machine learning and full stack development**
 
