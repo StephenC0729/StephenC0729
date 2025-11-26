@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm StephenC</h1>
 <h3 align="center">A sortttt of passionate fullstack developer from Malaysia</h3>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=LINGSIEWWIN.LINGSIEWWIN&left_color=red&right_color=green)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=stephenc0729&left_color=red&right_color=green)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephenc0729" alt="stephenc0729" /></a> </p>
 
