@@ -1,6 +1,6 @@
 # Hi 👋, I'm Stephen Chow
 
-### 🚀 A passionate Full-Stack Developer from Malaysia
+### 🚀 Software Engineering Graduate | Full-Stack Developer from Malaysia
 
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Development;Machine+Learning+Explorations;Building+Clean%2C+Scalable+Code" alt="Typing SVG" /></a>
@@ -8,11 +8,11 @@
 
 ## ⚡ About Me
 
-* 🎓 **Background:** Bachelor of Science (Hons) in Software Engineering student at Asia Pacific University (APU).
+* 🎓 **Background:** Software Engineering graduate from Asia Pacific University (APU).
 * 💻 **Current Focus:** Architecting clean full-stack applications, designing robust API integrations, and optimizing project structures.
-* ⚙️ **DevOps & Infrastructure:** Deepening my knowledge in Docker, containerization, and establishing reliable deployment workflows.
+* ⚙️ **CI/CD & Infrastructure:** Containerizing full-stack applications with Docker and designing automated workflows for seamless deployment.
 * 🤖 **Exploring:** Machine Learning integration and intelligent workflow automation systems.
-* 💼 **Open to:** Software engineering internships, freelance collaborations, and technical discussions.
+* 💼 **Open to:** Full-time Software Engineer roles, Full-Stack / Backend / Frontend positions, and innovative tech collaborations.
 
 ## 🤝 Connect with me:
 
