@@ -10,7 +10,8 @@
 
 * 🎓 **Background:** Software Engineering graduate from Asia Pacific University (APU).
 * 💻 **Current Focus:** Architecting clean full-stack applications, designing robust API integrations, and optimizing project structures.
-* ⚙️ **CI/CD & Infrastructure:** Containerizing full-stack applications with Docker and designing automated workflows for seamless deployment.
+* ☁️ **Cloud & Deployment:** Experienced in deploying and managing web applications across cloud environments (AWS) and modern serverless stacks (Vercel + Supabase).
+* 🔄 **CI/CD & Automation:** Leveraging Git-driven deployment pipelines and configuring YAML-based workflows to streamline code delivery.
 * 🤖 **Exploring:** Machine Learning integration and intelligent workflow automation systems.
 * 💼 **Open to:** Full-time Software Engineer roles, Full-Stack / Backend / Frontend positions, and innovative tech collaborations.
 
