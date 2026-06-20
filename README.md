@@ -18,7 +18,7 @@
 
 <!-- Replace with your actual links -->
 <p align="left">
-<a href="linkedin.com/in/stephen-chow-yong-cheng-837b5517b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/stephen-chow-yong-cheng-837b5517b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRTWDlVMMQsqKg5%2BDwsHdPw%3D%3D" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/stephenc_0729/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
