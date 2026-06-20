@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm StephenC</h1>
-<h3 align="center">A sortttt of passionate fullstack developer from Malaysia</h3>
+# Hi 👋, I'm Stephen Chow
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephenc0729" alt="stephenc0729" /></a> </p>
+### 🚀 A passionate Full-Stack Developer from Malaysia
 
-- 🌱 I’m currently learning **machine learning and full stack development**
-
-- 📫 How to reach me **stephoncheng71@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/stephen chow yong cheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen chow yong cheng" height="30" width="40" /></a>
-<a href="https://instagram.com/stephenc_0729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stephenc_0729" height="30" width="40" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Development;Machine+Learning+Explorations;Building+Clean%2C+Scalable+Code" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## ⚡ About Me
 
-<h1>GitHub Stats</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenc0729&show_icons=true&locale=en&layout=compact" alt="stephenc0729" /></p>
+* 🎓 **Background:** Bachelor of Science (Hons) in Software Engineering student at Asia Pacific University (APU).
+* 💻 **Current Focus:** Architecting clean full-stack applications, designing robust API integrations, and optimizing project structures.
+* ⚙️ **DevOps & Infrastructure:** Deepening my knowledge in Docker, containerization, and establishing reliable deployment workflows.
+* 🤖 **Exploring:** Machine Learning integration and intelligent workflow automation systems.
+* 💼 **Open to:** Software engineering internships, freelance collaborations, and technical discussions.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephenc0729&show_icons=true&locale=en" alt="stephenc0729" /></p>
+## 🤝 Connect with me:
 
-<h1>Contribution Streak</h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stephenc0729&" alt="stephenc0729" /></p>
+<!-- Replace with your actual links -->
+<p align="left">
+<a href="linkedin.com/in/stephen-chow-yong-cheng-837b5517b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/stephenc_0729/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+📬 **How to reach me:** [stephoncheng71@gmail.com](mailto:stephoncheng71@gmail.com) *(Note: Swap this out if you need to use a different email!)*
