@@ -23,4 +23,4 @@
 <a href="https://www.instagram.com/stephenc_0729/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-📬 **How to reach me:** [stephoncheng71@gmail.com](mailto:stephoncheng71@gmail.com) *(Note: Swap this out if you need to use a different email!)*
+📬 **How to reach me:** [stephoncheng71@gmail.com](mailto:stephoncheng71@gmail.com)
